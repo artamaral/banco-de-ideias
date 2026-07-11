@@ -1,0 +1,30 @@
+# Índice de Ideias
+
+Este arquivo é a visão geral do Banco de Ideias.
+
+> O arquivo individual de cada ideia é a fonte de verdade. Atualize este índice sempre que uma ideia for criada, movida, renomeada ou tiver seu estado alterado.
+
+## Resumo
+
+| Estado | Quantidade |
+|---|---:|
+| Capturada | 0 |
+| Em análise | 0 |
+| Incubada | 0 |
+| Pronta para testar | 0 |
+| Transformada em projeto | 0 |
+| Incorporada a projeto existente | 0 |
+| Arquivada | 0 |
+| **Total** | **0** |
+
+## Ideias
+
+| Ideia | Estado | Resumo | Projeto relacionado | Principal questão em aberto | Atualização |
+|---|---|---|---|---|---|
+| — | — | Nenhuma ideia registrada ainda. | — | — | — |
+
+## Revisões do banco
+
+### 2026-07-11 — Inicialização
+
+Estrutura inicial do Banco de Ideias criada.
