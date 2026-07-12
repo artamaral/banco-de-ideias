@@ -61,7 +61,32 @@ Definir quais dados de produto e desempenho já existem no projeto e verificar q
 - Produção automatizada de conteúdo para Instagram e TikTok.
 - Possível uso futuro de métricas de desempenho para retroalimentar o score de seleção.
 
+## Ideia relacionada — Comentário para receber link do grupo
+
+Os posts podem incluir uma chamada para ação pedindo que a pessoa comente uma palavra específica, como **“quero”**, **“grupo”** ou **“link”**, para receber o acesso ao grupo de compras.
+
+Quando o comentário for identificado, ele deve gerar um trigger no n8n. O fluxo enviaria automaticamente uma mensagem privada para a pessoa com o link de entrada no canal escolhido, que poderá ser WhatsApp ou Telegram.
+
+### Fluxo imaginado
+
+1. O post apresenta a oferta e convida a pessoa a comentar uma palavra definida.
+2. Instagram ou TikTok registra o comentário.
+3. A integração detecta o comentário e aciona o n8n.
+4. O n8n identifica o usuário e a plataforma de origem.
+5. Uma mensagem automática é enviada com o link para o grupo de compras no WhatsApp ou Telegram.
+6. O evento pode ser registrado para medir quantos comentários geraram mensagens e entradas no grupo.
+
+### Questões em aberto
+
+- Quais plataformas permitem detectar o comentário e enviar mensagem privada automaticamente pelas APIs oficiais?
+- A pessoa escolherá entre WhatsApp e Telegram no próprio post, na resposta automática ou em uma página intermediária?
+- Como evitar spam, mensagens duplicadas e envio para pessoas que já receberam o link?
+
 ## Histórico
+
+### 2026-07-12 — Ideia relacionada adicionada
+
+Adicionada a possibilidade de usar comentários nos posts como gatilho para o n8n enviar automaticamente, por mensagem privada, o link de entrada no grupo de compras no WhatsApp ou Telegram.
 
 ### 2026-07-12 — Mudança de estado
 
