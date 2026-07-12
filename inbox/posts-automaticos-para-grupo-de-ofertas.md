@@ -42,4 +42,4 @@ As ofertas e informações já disponíveis no projeto podem ser reaproveitadas 
 
 ### 2026-07-12 — Captura
 
-Ideia registrada a partir de descrição por voz. Foi preservida a possibilidade de seleção automática, humana ou híbrida dos itens, sem definir prematuramente a arquitetura ou transformar a ideia em tarefa de implementação.
+Ideia registrada a partir de descrição por voz. Foi preservada a possibilidade de seleção automática, humana ou híbrida dos itens, sem definir prematuramente a arquitetura ou transformar a ideia em tarefa de implementação.
